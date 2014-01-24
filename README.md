@@ -1,3 +1,8 @@
+##### 01/24/2014
+--
+This project is no longer actively maintained. There are other updated alternatives to install CF. Chech out:
+http://docs.cloudfoundry.com/docs/running/deploying-cf/run-local.html
+
 # Overview
 
 This project provides a mechanism to automate several tasks to be able to set up a Vagrant VM with the following V2 (NG) Cloud Foundry components:
