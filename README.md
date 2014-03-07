@@ -1,7 +1,7 @@
 ##### 01/24/2014
 --
 This project is no longer actively maintained. There are other updated alternatives to install CF. Chech out:
-http://docs.cloudfoundry.com/docs/running/deploying-cf/run-local.html
+http://docs.cloudfoundry.org/deploying/run-local.html
 
 # Overview
 
